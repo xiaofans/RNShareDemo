@@ -1,2 +1,0 @@
-# RNShareDemo
-a share demo.
